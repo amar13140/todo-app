@@ -131,8 +131,3 @@ This project helped in understanding:
 
 ---
 
-## Author
-
-Amar
-
-Frontend Web Development Internship Project for Thiranex.
